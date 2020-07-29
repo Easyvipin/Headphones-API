@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "philips",
+      "release": "2019",
+      "category": "wireless",
+      "img-url": null
+    },
+    {
+      "name": "sony",
+      "release": "2019",
+      "category": "wireless",
+      "img-url": null
+    },
+    {
+      "name": "boss",
+      "release": "2019",
+      "category": "headphone",
+      "img-url": null
+    },
+    {
+      "name": "jb",
+      "release": "2019",
+      "category": "speaker",
+      "img-url": null
+    },
+    {
+      "name": "apple earbuds",
+      "release": "2019",
+      "category": "wireless",
+      "img-url": null
+    }
+  ]
+}
